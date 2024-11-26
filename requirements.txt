@@ -1,0 +1,9 @@
+
+tensorflow==2.13.0
+opencv-python
+numpy
+pandas
+matplotlib
+kagglehub
+ipython
+Streamlit 
